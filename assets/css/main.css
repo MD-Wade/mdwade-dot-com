@@ -77,11 +77,11 @@ input, select, textarea {
 }
 
 #videobg	{
-	position: relative;
-	right: 0;
-	bottom: 0;
+	position: fixed;
+	right: -140px;
+	bottom: -140px;
 	min-width: 100%;
-	min-height: 480px;
+	min-height: 100%;
 }
 
 /* Basic */
