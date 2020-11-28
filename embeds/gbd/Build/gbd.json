@@ -1,0 +1,16 @@
+{
+"companyName": "MD Wade",
+"productName": "Ground Beef Dungeon",
+"productVersion": "0.1",
+"dataUrl": "gbd.data.unityweb",
+"wasmCodeUrl": "gbd.wasm.code.unityweb",
+"wasmFrameworkUrl": "gbd.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
